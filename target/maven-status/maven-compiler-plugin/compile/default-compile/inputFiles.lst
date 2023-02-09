@@ -1,0 +1,16 @@
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClientConfig.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/pool/SshClientsPool.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/exception/SshException.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/exception/LostConnectionException.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClientState.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/exception/AuthException.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshResponse.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClient.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClientSSHJ.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/pool/SshClientPoolConfig.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClientFactory.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/pool/SshClientWrapper.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/autoconfigure/SshClientPoolProperties.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/SshClientEventListener.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/autoconfigure/SshClientPoolAutoConfiguration.java
+/Users/aleksandrandreichenko/google_java/ssh-pool-client/src/main/java/com/github/andreichenko/ssh/exception/TimeoutException.java

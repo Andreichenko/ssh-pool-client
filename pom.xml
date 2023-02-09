@@ -7,7 +7,7 @@
     <groupId>com.github.andreichenko</groupId>
     <artifactId>ssh-pool-client</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-RELEASE</version>
+    <version>1.0.1-RELEASE</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/andreichenko/ssh-pool-client</url>
     <description>java ssh client</description>
